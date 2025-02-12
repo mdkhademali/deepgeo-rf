@@ -7,3 +7,5 @@ DeepGeo RF is a geospatial machine learning project that uses Remote Sensing and
 - Train a **Random Forest model** using labeled data
 - Perform **land cover classification**
 - Visualize classification results using **plots and maps**
+
+© mdkhademali
